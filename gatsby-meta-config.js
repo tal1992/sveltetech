@@ -1,7 +1,7 @@
 module.exports = {
   title: `Frontend Blogs`,
   description: `Blogs on Frontend Development`,
-  author: `Talvinder Singh`,
+  author: `Talvinder Sing`,
   introduction: `Tech Lead at Publicis Sapient`,
   siteUrl: `https://sveltejs.tech`, // Your blog site url
   social: {
