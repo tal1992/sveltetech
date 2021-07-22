@@ -1,8 +1,8 @@
 module.exports = {
   title: `Frontend Blogs`,
-  description: `Blogs about Frontend frameworks`,
+  description: `Blogs on Frontend Development`,
   author: `Talvinder Singh`,
-  introduction: `I work as a Tech Lead at Publicis Sapient`,
+  introduction: `Tech Lead at Publicis Sapient`,
   siteUrl: `https://sveltejs.tech`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
@@ -20,6 +20,9 @@ module.exports = {
   },
   configs: {
     countOfInitialPost: 10, // Config your initial count of post
+  },
+  sponsor: {
+    buyMeACoffeeId: 'no',
   },
   share: {
     facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
