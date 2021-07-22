@@ -1,4 +1,4 @@
-import Typography from 'typography'
+import Typography from 'typography' 
 import GitHubTheme from 'typography-theme-github'
 
 GitHubTheme.overrideThemeStyles = () => {
@@ -20,7 +20,7 @@ GitHubTheme.overrideThemeStyles = () => {
     h1: {
       fontWeight: 800,
       lineHeight: 1.2,
-      fontFamily: 'Catamaran',
+      fontFamily: 'Arial',
     },
 
     h2: {
@@ -28,7 +28,7 @@ GitHubTheme.overrideThemeStyles = () => {
       lineHeight: 1.2,
       marginTop: '56px',
       marginBottom: '20px',
-      fontFamily: 'Catamaran',
+      fontFamily: 'Arial',
     },
 
     ul: {

@@ -34,7 +34,6 @@
     "gatsby-transformer-remark": "^2.3.8",
     "gatsby-transformer-sharp": "^2.1.17",
     "intersection-observer": "^0.5.1",
-    "katex": "^0.11.1",
     "lodash": "^4.17.19",
     "node-sass": "^4.14.0",
     "prismjs": "^1.23.0",
@@ -47,10 +46,6 @@
     "react-typography": "^0.16.13",
     "smooth-scroll": "^16.0.0",
     "smoothscroll-polyfill": "^0.4.4",
-    "typeface-catamaran": "0.0.54",
-    "typeface-merriweather": "0.0.72",
-    "typeface-montserrat": "0.0.54",
-    "typeface-noto-sans-kr": "0.0.63",
     "typography": "^0.16.17",
     "typography-theme-github": "^0.16.18"
   },
