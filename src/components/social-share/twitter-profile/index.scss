@@ -1,0 +1,27 @@
+a.resp-sharing-button__link {
+  float: right;
+  margin: 14px 15px 10px 0;
+  svg {
+    margin-right: 0 !important;
+  }
+}
+
+.resp-sharing-button--twitter {
+  background-color: #55acee;
+  margin-right: 0;
+}
+
+.resp-sharing-button--twitter:hover {
+  background-color: #2795e9;
+}
+
+.resp-sharing-button--twitter {
+  background-color: #55acee;
+  border-color: #55acee;
+}
+
+.resp-sharing-button--twitter:hover,
+.resp-sharing-button--twitter:active {
+  background-color: #2795e9;
+  border-color: #2795e9;
+}

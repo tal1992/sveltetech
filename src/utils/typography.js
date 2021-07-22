@@ -1,4 +1,4 @@
-import Typography from 'typography'
+import Typography from 'typography' 
 import GitHubTheme from 'typography-theme-github'
 
 GitHubTheme.overrideThemeStyles = () => {

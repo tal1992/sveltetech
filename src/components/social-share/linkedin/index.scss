@@ -1,0 +1,27 @@
+a.resp-sharing-button__link {
+  float: right;
+  margin: 14px 15px 10px 0;
+  svg {
+    margin-right: 0 !important;
+  }
+}
+
+.resp-sharing-button--linkedin {
+  background-color: #326799;
+  margin-right: 0;
+}
+
+.resp-sharing-button--linkedin:hover {
+  background-color: #326799;
+}
+
+.resp-sharing-button--linkedin {
+  background-color: #326799;
+  border-color: #55acee;
+}
+
+.resp-sharing-button--linkedin:hover,
+.resp-sharing-button--linkedin:active {
+  background-color: #326799;
+  border-color: #326799;
+}
