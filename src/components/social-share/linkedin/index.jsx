@@ -4,7 +4,7 @@ import './index.scss'
 
 export const Linkedin = ({ onClick }) => (
   <a
-    className="resp-sharing-button__link"
+    className="resp-sharing-button__link linkedin"
     href="https://www.linkedin.com/in/iamtalvinder/"
     rel="noopener"
     aria-label="Follow on Linkedin"
