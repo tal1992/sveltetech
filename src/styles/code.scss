@@ -12,6 +12,10 @@
   border-left: 0.35em solid #0687f0;
 }
 
+.gatsby-resp-image-wrapper {
+  margin-left: 0 !important;
+  margin-bottom: 30px !important;
+}
 blockquote {
   color: $blockquote-text-color;
 }

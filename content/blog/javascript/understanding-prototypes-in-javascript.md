@@ -3,7 +3,10 @@ title: 'Understanding Prototypes in Javascript'
 date: 2021-07-22
 category: 'javascript'
 draft: false
+featuredImage: ../images/proto.png
 ---
+
+![](./images/prototype.png)
 
 In JavaScript, prototype refers to a system. This system allows you to define properties on objects that can be accessed via the object’s instances. For example, an Array is a blueprint for array instances. You create an array instance with [] or new Array().
 
@@ -11,12 +14,11 @@ In JavaScript, prototype refers to a system. This system allows you to define pr
 const array = ['one', 'two', 'three']
 console.log(array);
 
-// Same result as above
 const array = new Array('one', 'two', 'three');
 ```
 If you console.log this array you won’t see any methods, but you can use methods like concat, slice, filter, and map!
 
-### Why ?
+## Explanation 
 
 Because these methods are located in the Array’s prototype. You can expand the proto object (Chrome Devtools) or prototype object (Firefox Devtools) and you’ll see a list of methods.
 
