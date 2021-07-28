@@ -1,6 +1,6 @@
 ---
-title: 'about'
-date: 2019-1-27 16:21:13
+title: 'About Talvinder'
+date: 2021-07-27 16:21:13
 lang: 'en'
 ---
 # Talvinder Singh
