@@ -1,3 +1,7 @@
 .thumbnail-container {
-  min-height: calc(100vh - 3.5rem);
+  display: grid;
+  margin-top: 25px;
+  @media (min-width: 768px) {
+    grid-template-columns: 1fr 1fr;
+  }
 }

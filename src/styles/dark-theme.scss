@@ -1,6 +1,5 @@
 body.dark {
   background-color: $dark-background-color;
-  text-shadow: $dark-text-shadow;
   color: $dark-light-font-color;
 
   // home
@@ -45,7 +44,7 @@ body.dark {
   }
 
   .thumbnail {
-    h3 {
+    h2 {
       color: $dark-light-font-color;
     }
     p {

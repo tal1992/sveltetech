@@ -1,6 +1,5 @@
 body.light {
   background-color: $light-background-color;
-  text-shadow: $light-text-shadow;
 
   // home
   .home-header {
@@ -44,7 +43,7 @@ body.light {
   }
 
   .thumbnail {
-    h3 {
+    h2 {
       color: $dark-gray;
     }
     p {

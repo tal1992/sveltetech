@@ -1,8 +1,8 @@
 module.exports = {
   title: `Frontend Blogs`,
   description: `Blogs on Frontend Development`,
-  author: `Talvinder Singh`,
-  introduction: `Tech Lead at Publicis Sapient`,
+  author: `iamtalvinder`,
+  introduction: `JS Expert and Open source enthusiast`,
   siteUrl: `https://sveltejs.tech`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
@@ -12,7 +12,7 @@ module.exports = {
     linkedin: ``, // Your LinkedIn account
     instagram: ``, // Your Instagram account
   },
-  icon: `content/assets/felog.png`, // Add your favicon
+  icon: `content/assets/logo-site.jpg`, // Add your favicon
   keywords: [`blog`],
   comment: {
     disqusShortName: '', // Your disqus-short-name. check disqus.com.

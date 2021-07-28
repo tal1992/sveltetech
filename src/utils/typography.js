@@ -23,13 +23,13 @@ GitHubTheme.overrideThemeStyles = () => {
       fontFamily: 'Arial',
     },
 
-    h2: {
-      fontWeight: 700,
-      lineHeight: 1.2,
-      marginTop: '56px',
-      marginBottom: '20px',
-      fontFamily: 'Arial',
-    },
+    // h2: {
+    //   fontWeight: 700,
+    //   lineHeight: 1.2,
+    //   marginTop: '56px',
+    //   marginBottom: '20px',
+    //   fontFamily: 'Arial',
+    // },
 
     ul: {
       marginBottom: '6px',
