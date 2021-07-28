@@ -3,11 +3,163 @@ title: 'about'
 date: 2019-1-27 16:21:13
 lang: 'en'
 ---
-
 # Talvinder Singh
+## Senior Frontend Developer
 
-<div align="center">
+> [Download PDF](Talvinder_Resume.pdf)  
+> [talvindersingh1992@gmail.com](mailto:talvindersingh1992@gmail.com)  
+> (+91) 7838020998
 
-If you want to contact me, Please send me an email talvindersingh1992@gmail.com
+------
 
-</div>
+### Profile
+
+A technology enthusiast with proven track record and exquisite corporate experience of over 6 years.
+
+------
+
+### Skills
+
+* <strong>Web Technologies</strong>: Javascript, Svelte, Web-components, React.js, PWA, NodeJS, Typescript, HTML5, CSS3, jQuery, MERN Stack, Eleventy, Serverless and SASS.
+  : Assertively exploit wireless initiatives rather than synergistic core competencies.
+
+* <strong>Devops & Build Tools</strong>:
+  : AWS, CI-CD pipeline, S3, Cloudfront, Lambda functions, Gulp, GIT, Bitbucket & Jenkins.
+
+* <strong>Performance & Accessibility</strong>:
+  Lighthouse, Ally and WCAG Standards.
+  
+* <strong>Databases:</strong> MongoDB and MYSQL.
+
+* <strong>Unit Testing & other tools</strong>: Jest, Enzyme, Mocha, Jira, Zeplin and Invision.
+
+-------
+
+
+### Experience
+
+<strong>Publicis Sapient</strong>
+: *Senior Associate Experience Technology L2*
+  __(2018-present)__
+  
+  <strong>`Projects:`</strong>
+
+`Frictionless Shopping`
+
+Developed web-components for the ecommerce journey. The project involves detecting Products on brand’s webpages using Machine Learning crawling and then showing Svelte’s based web components based on the ML's API response. The App displays various components like Shop the story on the page and then takes the user to buying journey.
+
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+`Hair Profiler`
+
+Developed Machine Learning powered Hair profiler journey for a leading brand which asks some questions to the user as a part of survey and then recommends products and articles based on the results. User can also signup after the results.
+
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+
+`Mentor Mentee App (Hackathon)`
+
+Developed MERN stack app for managing mentors and mentee communication. The App had lots of features and also won Runner’s up award in Sapient.
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+
+`Brand site development`
+
+Developed multiple components and campaign journeys for leading FMCG sites like Dove, Axe, Tresemme etc which are being used throughout the sites and campaign pages. Also performed performance optimization for the sites.
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Handlebars](https://img.shields.io/badge/hbss-handlebars-red)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+
+`Initiatives`
+
+Developed Hire buddy internal application, 2 times speaker in XT townhall, spoke in XT Summit 2019 and contributed to multiple frontend community initiatives.
+
+--- 
+<strong>Collegedunia.com - Education portal</strong>
+: *Senior frontend developer*
+  __(2017-2018)__
+  
+  <strong>`Projects:`</strong>
+
+`Progressive Web App (PWA)`
+
+Developed Multiple Web pages for new progressive web app which resulted in faster page loads and increase in total visits. Also developed Revicon (India’s no. 1 college review competition) and Study Abroad Module for the site. Added Material design to the existing page and developed a chrome extension for the organization.
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+<strong>Infosys</strong>
+: *Senior Systems Engineer*
+  __(2014-2017)__
+  
+  <strong>`Projects:`</strong>
+
+`Web development for multiple clients`
+Involved in developing responsive website for a leading beverage company. I also participated in requirement elicitation, analysis and Estimation of Project Timeline. I also delivered UI Training for people within Infosys.
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+------
+
+### Education
+
+* B.TECH (2010-2014) – E.C.E, GGSIPU
+
+------
+
+### Awards
+
+* Sapient Rockstar Award 2021
+* Client Impact Award 2020
+* Sapient Star Award
+* Infosys Bravo Award
+* Infosys Insta Award
+* Excellence Award
+
+------
+
+### Personal Details
+
+<strong>Interests: </strong>Blogging, Cosmology, Robotics and Blockchain.
+
+<strong>Languages: </strong> English, Hindi, Portuguese and Punjabi

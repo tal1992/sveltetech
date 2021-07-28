@@ -12,11 +12,11 @@ export default ({ data }) => {
     .map(({ node }) => node)[0]
 
   return (
-    <div
+    <div className="about"
       style={{
         marginLeft: `auto`,
         marginRight: `auto`,
-        maxWidth: rhythm(24),
+        maxWidth: rhythm(35),
         padding: `${rhythm(0.5)} ${rhythm(3 / 4)} ${rhythm(1.5)} ${rhythm(
           3 / 4
         )}`,
