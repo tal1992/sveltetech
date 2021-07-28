@@ -18,7 +18,7 @@ export const Linkedin = ({ onClick }) => (
       >
       <svg version="1.1" viewBox="0 0 350 350" xmlns="http://www.w3.org/2000/svg">
       <desc>Created with Fabric.js 1.7.22</desc>
-      <g transform="translate(-1.9444 -1.9444) scale(3.89)" stroke-linecap="round">
+      <g transform="translate(-1.9444 -1.9444) scale(3.89)" strokeLinecap="round">
         <path d="M 0 6.447 C 0 2.887 2.978 0 6.651 0 h 76.698 C 87.022 0 90 2.887 90 6.447 v 77.106 C 90 87.114 87.022 90 83.349 90 H 6.651 C 2.978 90 0 87.114 0 83.553 V 6.447 z" fill="#069"/>
         <path d="m20.485 29.151c4.74 0 7.691-3.121 7.691-7.021-0.088-3.988-2.95-7.022-7.601-7.022-4.65 0-7.69 3.034-7.69 7.022 0 3.9 2.95 7.021 7.512 7.021h0.088z" fill="#fff"/>
         <path d="m27.282 75.339v-40.64h-13.594v40.64h13.594z" fill="#fff"/>
