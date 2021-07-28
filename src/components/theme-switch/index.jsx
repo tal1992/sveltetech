@@ -71,6 +71,7 @@ export const ThemeSwitch = () => {
   return (
     <div className="switch-container">
       <label htmlFor="normal-switch">
+      <span class="label">Change theme</span>
         <Switch
           onChange={handleChange}
           checked={checked}

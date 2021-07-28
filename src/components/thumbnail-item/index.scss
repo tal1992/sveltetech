@@ -1,17 +1,30 @@
 @import '../../styles/variables.scss';
 
 .thumbnail {
-  display: block;
   margin-bottom: 12px;
   padding: 4px;
   padding-bottom: 12px;
   box-shadow: none;
   transition: text-shadow 0.3s, opacity 0.4s;
   opacity: 0;
+  display: grid;
+  grid-template-columns: 0.4fr 1.5fr;
+  @media (min-width: 768px) {
+    // width: 50%;
+  }
 
   p {
     font-size: 90%;
     line-height: 1.4;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+  }
+  h2 {
+    margin-top: 10px;
+    border: 0;
   }
 }
 
