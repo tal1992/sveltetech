@@ -9,3 +9,9 @@ body {
   -moz-osx-font-smoothing: grayscale;
   transition: background-color 0.3s, color 0.3s;
 }
+
+.bigImage {
+  @media (min-width: 768px) {
+    max-width: 600px;
+  }
+}

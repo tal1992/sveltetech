@@ -21,7 +21,6 @@ A technology enthusiast with proven track record and exquisite corporate experie
 ### Skills
 
 * <strong>Web Technologies</strong>: Javascript, Svelte, Web-components, React.js, PWA, NodeJS, Typescript, HTML5, CSS3, jQuery, MERN Stack, Eleventy, Serverless and SASS.
-  : Assertively exploit wireless initiatives rather than synergistic core competencies.
 
 * <strong>Devops & Build Tools</strong>:
   : AWS, CI-CD pipeline, S3, Cloudfront, Lambda functions, Gulp, GIT, Bitbucket & Jenkins.
