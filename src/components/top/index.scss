@@ -4,7 +4,8 @@
   position: relative;
   width: 100%;
   height: 60px;
-  background: $theme-gradient;
+  // background: $theme-gradient;
+  background: linear-gradient(to right, #fa8006, #fff , #008000 );
 
   .link {
     display: inline-block;
@@ -14,6 +15,6 @@
     opacity: 0.7;
     margin-left: 20px;
     font-family: 'Arial';
-    font-weight: 800;
+    font-weight: 700;
   }
 }

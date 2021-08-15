@@ -7,7 +7,7 @@ featuredImage: ../images/proto.png
 ---
 
 <div class="bigImage">
-    <img src="./images/watch.jpeg" alt="watch">
+    <img src="./images/spy.webp" alt="watch">
 </div>
 
 <strong>MutationObserver</strong> is a lesser known JavaScript feature which allows you to detect when DOM elements in a web page are inserted, changed or removed. It is still relatively new, but it is supported by every modern browser. It triggers a callback when the change happens.
