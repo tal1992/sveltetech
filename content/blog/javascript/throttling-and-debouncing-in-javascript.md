@@ -7,7 +7,7 @@ featuredImage: ../images/throttle.jpg
 ---
 
 <div class="bigImage">
-    <img src="./images/throttle.jpg" width="500px" style="max-width: 500px">
+    <img src="./images/throttle.jpg" alt="throttle">
 </div>
 
 ## Throttling 
