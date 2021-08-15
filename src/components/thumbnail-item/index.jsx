@@ -8,7 +8,7 @@ import javascript from '../../../assets/javascript.png';
 
 export const ThumbnailItem = ({ node }) => {
   let imgpath = `../../../assets/javascript.png`;
-  console.log(node.frontmatter.category)
+  // console.log(node.frontmatter.category)
   return(
   <Link className={`thumbnail ${TARGET_CLASS}`} to={node.fields.slug}>
   {node.frontmatter.category === 'javascript' ?
