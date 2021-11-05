@@ -27,13 +27,21 @@ export const ThumbnailItem = ({ node }) => {
       layout="fixed"
       width={100}
       height={100} /> :
+      node.frontmatter.category === 'svelte' ?
       <StaticImage 
       src="../../../assets/svelte.png"
       alt={node.frontmatter.title || node.fields.slug}       
       placeholder="blurred"
       layout="fixed"
       width={100}
-      height={100} />      
+      height={100} /> :
+      <StaticImage 
+      src="../../../assets/ether.png"
+      alt={node.frontmatter.title || node.fields.slug}       
+      placeholder="blurred"
+      layout="fixed"
+      width={100}
+      height={100} />       
   }
 
     <div key={node.fields.slug}>
