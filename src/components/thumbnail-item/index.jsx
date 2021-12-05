@@ -35,6 +35,14 @@ export const ThumbnailItem = ({ node }) => {
       layout="fixed"
       width={100}
       height={100} /> :
+      node.frontmatter.category === 'gcp' ?
+      <StaticImage 
+      src="../../../assets/gcp.png"
+      alt={node.frontmatter.title || node.fields.slug}       
+      placeholder="blurred"
+      layout="fixed"
+      width={100}
+      height={100} /> :      
       <StaticImage 
       src="../../../assets/ether.png"
       alt={node.frontmatter.title || node.fields.slug}       
