@@ -196,7 +196,7 @@ Note: port is optional
 
 Now you can use postman to hit a post request at http://localhost:8080/singh and you should be able to see the passed parameter i.e singh in the the 200 response.
 
-### Deploying Code to GCP
+### Deploying Code to GCP 
 
 The most important part however is deploying your code to the GCP. Before you proceed with deployment, note that the gcp provides below triggers for a cloud function -
 
