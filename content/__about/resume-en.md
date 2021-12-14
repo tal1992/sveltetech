@@ -4,9 +4,9 @@ date: 2021-07-27 16:21:13
 lang: 'en'
 ---
 
-<h1 class="primary"> Talvinder Singh</h1>
+<h1 style="color:#fe414d; font-weight: 500"> Talvinder Singh</h1>
 
-## Senior Fullstack Developer
+<h2 style="font-weight:500">Senior Fullstack Developer</h2>
 
 > [Download PDF](Talvinder_fullstack.pdf)  
 > [talvindersingh1992@gmail.com](mailto:talvindersingh1992@gmail.com)  
@@ -14,13 +14,13 @@ lang: 'en'
 
 ---
 
-<h3 class="primary"> Profile</h3>
+<h3 style="color:#fe414d; font-weight: 500"> Profile</h3>
 
 A technology enthusiast with proven track record and exquisite corporate experience of over 7 years.
 
 ---
 
-<h3 class="primary"> Skills</h3>
+<h3 style="color:#fe414d; font-weight: 500"> Skills</h3>
 
 - <strong>Web Technologies</strong>: Javascript, Svelte, Web-components, React.js, PWA, NodeJS, Typescript, HTML5, CSS3, jQuery, MERN Stack, Eleventy, Serverless and SASS.
 
@@ -36,7 +36,7 @@ A technology enthusiast with proven track record and exquisite corporate experie
 
 ---
 
-<h3 class="primary"> Experience</h3>
+<h3 style="color:#fe414d; font-weight: 500"> Experience</h3>
 
 <strong>Publicis Sapient</strong>
 : _Senior Associate Experience Technology L2_
@@ -139,6 +139,7 @@ Developed Multiple Web pages for new progressive web app which resulted in faste
 <strong>`Projects:`</strong>
 
 `Web development for multiple clients`
+
 Involved in developing responsive website for a leading beverage company. I also participated in requirement elicitation, analysis and Estimation of Project Timeline. I also delivered UI Training for people within Infosys.
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -152,13 +153,13 @@ Involved in developing responsive website for a leading beverage company. I also
 
 ---
 
-<h3 class="primary"> Education</h3>
+<h3 style="color:#fe414d; font-weight: 500"> Education</h3>
 
 - B.TECH (2010-2014) – E.C.E, GGSIPU
 
 ---
 
-<h3 class="primary"> Awards</h3>
+<h3 style="color:#fe414d; font-weight: 500"> Awards</h3>
 
 - Sapient Rockstar Award 2021
 - Client Impact Award 2020
@@ -169,7 +170,7 @@ Involved in developing responsive website for a leading beverage company. I also
 
 ---
 
-<h3 class="primary"> Personal Details</h3>
+<h3 style="color:#fe414d; font-weight: 500"> Personal Details</h3>
 
 <strong>Interests: </strong>Tech Blogging, Cosmology, Robotics and Blockchain.
 
