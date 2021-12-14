@@ -146,3 +146,8 @@ pre[class*='language-'] {
 .token.inserted {
   color: green;
 }
+
+.color-primary {
+  color: $color-primary;
+  font-weight: 500;
+}
