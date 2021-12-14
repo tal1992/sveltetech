@@ -3,8 +3,9 @@ title: 'About Talvinder'
 date: 2021-07-27 16:21:13
 lang: 'en'
 ---
-# Talvinder Singh
-## Senior Frontend Developer
+<h1 class="color-primary"> Talvinder Singh</h1>
+
+## Senior Fullstack Developer
 
 > [Download PDF](Talvinder_Resume.pdf)  
 > [talvindersingh1992@gmail.com](mailto:talvindersingh1992@gmail.com)  
@@ -12,13 +13,13 @@ lang: 'en'
 
 ------
 
-### Profile
+<h3 class="color-primary"> Profile</h3>
 
-A technology enthusiast with proven track record and exquisite corporate experience of over 6 years.
+A technology enthusiast with proven track record and exquisite corporate experience of over 7 years.
 
 ------
 
-### Skills
+<h3 class="color-primary"> Skills</h3>
 
 * <strong>Web Technologies</strong>: Javascript, Svelte, Web-components, React.js, PWA, NodeJS, Typescript, HTML5, CSS3, jQuery, MERN Stack, Eleventy, Serverless and SASS.
 
@@ -35,7 +36,8 @@ A technology enthusiast with proven track record and exquisite corporate experie
 -------
 
 
-### Experience
+
+<h3 class="color-primary"> Experience</h3>
 
 <strong>Publicis Sapient</strong>
 : *Senior Associate Experience Technology L2*
@@ -45,7 +47,9 @@ A technology enthusiast with proven track record and exquisite corporate experie
 
 `Frictionless Shopping`
 
-Developed web-components for the ecommerce journey. The project involves detecting Products on brand’s webpages using Machine Learning crawling and then showing Svelte’s based web components based on the ML's API response. The App displays various components like Shop the story on the page and then takes the user to buying journey.
+Developed Ecommerce platform from scratch. The project involves detecting Products on brand’s webpages using Machine Learning crawling and then showing Svelte’s based web components based on the ML's API response. The App displays various components like Shop the story, products carousel on the page and then takes the user to buying journey. I also developed the self-service onboarding tool for new brands to integrate the widget on their site with few clicks. <strong> The project resulted in increase in user conversion.</strong>
+
+
 
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -86,6 +90,7 @@ Developed MERN stack app for managing mentors and mentee communication. The App 
 
 Developed multiple components and campaign journeys for leading FMCG sites like Dove, Axe, Tresemme etc which are being used throughout the sites and campaign pages. Also performed performance optimization for the sites.
 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
@@ -140,13 +145,14 @@ Involved in developing responsive website for a leading beverage company. I also
 <span></span>
 ------
 
-### Education
+<h3 class="color-primary"> Education</h3>
 
 * B.TECH (2010-2014) – E.C.E, GGSIPU
 
 ------
 
-### Awards
+<h3 class="color-primary"> Awards</h3>
+
 
 * Sapient Rockstar Award 2021
 * Client Impact Award 2020
@@ -157,8 +163,9 @@ Involved in developing responsive website for a leading beverage company. I also
 
 ------
 
-### Personal Details
+<h3 class="color-primary"> Personal Details</h3>
 
-<strong>Interests: </strong>Blogging, Cosmology, Robotics and Blockchain.
 
-<strong>Languages: </strong> English, Hindi, Portuguese and Punjabi
+<strong>Interests: </strong>Tech Blogging, Cosmology, Robotics and Blockchain.
+
+<strong>Languages: </strong> English, Hindi, Portuguese and Punjabi.
