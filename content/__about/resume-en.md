@@ -4,7 +4,7 @@ date: 2021-07-27 16:21:13
 lang: 'en'
 ---
 
-<h1 class="color-primary"> Talvinder Singh</h1>
+<h1 class="primary"> Talvinder Singh</h1>
 
 ## Senior Fullstack Developer
 
@@ -14,13 +14,13 @@ lang: 'en'
 
 ---
 
-<h3 class="color-primary"> Profile</h3>
+<h3 class="primary"> Profile</h3>
 
 A technology enthusiast with proven track record and exquisite corporate experience of over 7 years.
 
 ---
 
-<h3 class="color-primary"> Skills</h3>
+<h3 class="primary"> Skills</h3>
 
 - <strong>Web Technologies</strong>: Javascript, Svelte, Web-components, React.js, PWA, NodeJS, Typescript, HTML5, CSS3, jQuery, MERN Stack, Eleventy, Serverless and SASS.
 
@@ -36,7 +36,7 @@ A technology enthusiast with proven track record and exquisite corporate experie
 
 ---
 
-<h3 class="color-primary"> Experience</h3>
+<h3 class="primary"> Experience</h3>
 
 <strong>Publicis Sapient</strong>
 : _Senior Associate Experience Technology L2_
@@ -152,13 +152,13 @@ Involved in developing responsive website for a leading beverage company. I also
 
 ---
 
-<h3 class="color-primary"> Education</h3>
+<h3 class="primary"> Education</h3>
 
 - B.TECH (2010-2014) – E.C.E, GGSIPU
 
 ---
 
-<h3 class="color-primary"> Awards</h3>
+<h3 class="primary"> Awards</h3>
 
 - Sapient Rockstar Award 2021
 - Client Impact Award 2020
@@ -169,7 +169,7 @@ Involved in developing responsive website for a leading beverage company. I also
 
 ---
 
-<h3 class="color-primary"> Personal Details</h3>
+<h3 class="primary"> Personal Details</h3>
 
 <strong>Interests: </strong>Tech Blogging, Cosmology, Robotics and Blockchain.
 
